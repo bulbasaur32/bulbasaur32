@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bulbasaur32
 - 👀 I’m interested in ... Python, ML, Algorithms, WebScraping, Automation, Data Science
 - 🌱 I’m currently learning ... Neural Networks
-- 📫 How to reach me ...
 
 <!---
 bulbasaur32/bulbasaur32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
